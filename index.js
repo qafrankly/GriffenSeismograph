@@ -11,6 +11,7 @@ import {
 import SeismographController from './SeismographController'
 import EarthquakeHistoryController from './EarthquakeHistoryController'
 import EarthquakeController from './EarthquakeController'
+import BarnacleController from './BarnacleController'
 
 const SEISMOGRAPHFEED = 'http://ftpcontent.worldnow.com/kwtv/custom/earthquake/data.json'
 
